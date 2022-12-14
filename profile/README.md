@@ -4,6 +4,10 @@ We are a scientific research group dedicated to studying the temporal aspect of 
 
 Get to know us better at [giperbio.netlify.app](https://giperbio.netlify.app).
 
+See also other GIPERBIO repositories hosted by other organizations on GitHub:
+
+* [`ropensci/mctq`](https://github.com/ropensci/mctq): ☀ Tools to process the Munich ChronoType Questionnaire (MCTQ)
+
 ---
 
 <sub>Interdisciplinary Research Group on Biological Rhythms ([GIPERBIO](https://giperbio.netlify.app)), School of Arts, Sciences and Humanities ([EACH](http://each.usp.br/)), University of Sao Paulo ([USP](http://usp.br/))</sub>
