@@ -10,4 +10,4 @@ See also other GIPERBIO repositories hosted by other organizations on GitHub:
 
 ---
 
-<sub>Interdisciplinary Research Group on Biological Rhythms ([GIPERBIO](https://giperbio.netlify.app)), School of Arts, Sciences and Humanities ([EACH](http://each.usp.br/)), University of Sao Paulo ([USP](http://usp.br/))</sub>
+<sub>Interdisciplinary Research Group on Biological Rhythms ([GIPERBIO](https://giperbio.netlify.app))
